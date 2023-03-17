@@ -1,6 +1,6 @@
 public class MinstoSecs {
 
-     public static double secsToMins(double mins){
+     public static double minsToSecs(double mins){
         return mins*60;
      }
 }
